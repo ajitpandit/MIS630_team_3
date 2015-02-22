@@ -1,43 +1,19 @@
-# MIS630_team_3
- 
+<h1>Dine ‘n’ Wine</h1>
 
-#VAIBHAV
-#PUJAN
-#SAURABH 
-#AJIT
-# team 3 
-
-<h1>This is a Heading</h1>
-Dine ‘n’ Wine
-Mission Statement
+<h2>Mission Statement</h2>
 
 We are committed in providing finest recipes for cooking appetizing cuisines. No recipe leaves our kitchen that you won’t be compelled to try...
 
-Project Scope
+<h2>Project Scope</h2>
 		
 		The website teaches how to cook to a foodie or a culinarian. How to learn cooking or share your knowledge. The website stipulates a platform to share and celebrate culinary knowledge. A visitor can sign up/login, explore and share various cuisine recipes. Each of the recipe can be understood in five different languages, being commented on and rated by the registered users. A variety of recipes are sorted according to time it takes, different cultures and time of dine. Sharing is not restricted to our website, we offer users to share their knowledge on social networking sites such as Facebook, Pinterest, Twitter and Google Plus. People from different cultural backgrounds can learn recipes from different cultures in the language they are comfortable with.
 
-Functionalities
-log in page -----------
-sign up --------------
-cooking moods aka flavours --------
-language of recepie 
-countrywise food genre --------(searching for recepies)
-feedback ------------
-contat us - customer support --------
-self - recepie upload ---------
-comments & star ratings for each receipe  
-recepies available area - map showing - x (places to eat this platter) ---------
-share on social ------
-bookshelf -------
-golden customers ---- part time jobs (judged on recepies they post and ratings they get)
 
 
 
-
-Mockup web pages
+<h2>Mockup web pages </h2>
 	
-Log In Page
+<h3>Log In Page</h3>
 
 •	The log in page gives a brief idea about the website with help of its beautiful food images and the tag line.
 •	It allows existing members to sign in with their accounts, sends a password reset if the member forgets his/her password and also allows them to save the user name and password in the session of the browser. 
@@ -46,15 +22,7 @@ Log In Page
 
 
 
-
-
-
-
-
-
-
-
-Dine ‘n’ Wine Homepage
+<h3>Dine ‘n’ Wine Homepage</h3>
 
 
 •	The homepage of Dine ‘n’ Wine website mainly differentiate the website into four pages such as Home, Upload Recipe, Feedback and Contact Us.
@@ -67,32 +35,8 @@ Dine ‘n’ Wine Homepage
    
 
 
+<h3> Detailed Recipe Page </h3> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Detailed Recipe Page 
 
 •	The Detailed Recipe page allows user to learn the recipes of different cultures in their preferred language. 
 •	The user can know more about the chef that has invented the recipe and also if the user want to reckon or try the recipe, the places are also recommended for that specific dish on the page. 
