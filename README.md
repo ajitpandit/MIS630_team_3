@@ -6,7 +6,6 @@ We are committed in providing finest recipes for cooking appetizing cuisines. No
 </p>
 <h2>Project Scope</h2>
 
-	<p>	The website teaches how to cook to a foodie or a culinarian. How to learn cooking or share your knowledge. The website stipulates a platform to share and celebrate culinary knowledge. A visitor can sign up/login, explore and share various cuisine recipes. Each of the recipe can be understood in five different languages, being commented on and rated by the registered users. A variety of recipes are sorted according to time it takes, different cultures and time of dine. Sharing is not restricted to our website, we offer users to share their knowledge on social networking sites such as Facebook, Pinterest, Twitter and Google Plus. People from different cultural backgrounds can learn recipes from different cultures in the language they are comfortable with.</p>
 
 
 
