@@ -12,7 +12,7 @@ We are committed in providing finest recipes for cooking appetizing cuisines. No
 	
 <h3>Log In Page</h3>
 ![login]
-[login]:https://github.com/ajitpandit/MIS630_team_3/blob/master/Login.jpg
+[login]:https://github.com/ajitpandit/MIS630_team_3/blob/master/Login.jpg <br>
 •	The log in page gives a brief idea about the website with help of its beautiful food images and the tag line.<br>
 •	It allows existing members to sign in with their accounts, sends a password reset if the member forgets his/her password and also allows them to save the user name and password in the session of the browser. <br>
 •	Visitors or new users can create a new account by providing minimal details such as their email ids and creating a new password with some constraints.<br>
