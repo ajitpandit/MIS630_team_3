@@ -35,7 +35,7 @@ We are committed in providing finest recipes for cooking appetizing cuisines. No
 
 
 <h3> Detailed Recipe Page </h3> 
-
+![recipe][recipe]: https://github.com/ajitpandit/MIS630_team_3/blob/master/Recipe.jpg
 
 •	The Detailed Recipe page allows user to learn the recipes of different cultures in their preferred language. <br>
 •	The user can know more about the chef that has invented the recipe and also if the user want to reckon or try the recipe, the places are also recommended for that specific dish on the page. <br>
