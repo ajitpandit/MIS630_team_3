@@ -1,6 +1,9 @@
 <h1>Dine ‘n’ Wine</h1> 
 ![logo]
 [logo]:https://github.com/ajitpandit/MIS630_team_3/blob/master/logo.jpg
+$image = new ImageResize('logo.jpg');
+$image->scale(50);
+$image->save('logo2.jpg')
 
 <h2>Mission Statement</h2>
 <p>
