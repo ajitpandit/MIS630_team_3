@@ -21,7 +21,8 @@ We are committed in providing finest recipes for cooking appetizing cuisines. No
 
 
 <h3>Dine ‘n’ Wine Homepage</h3>
-
+![HomePage]
+[HomePage]:https://github.com/ajitpandit/MIS630_team_3/blob/master/HomePage.jpg
 
 •	The homepage of Dine ‘n’ Wine website mainly differentiate the website into four pages such as Home, Upload Recipe, Feedback and Contact Us.<br>
 •	Home gives an unique advantage to the member of Dine ‘n’ Wine to search all the recipes we can offer sorted based on Genre of food or kind of cuisines, Time of Dine and Cooking Time the recipe takes to be prepared. <br>
