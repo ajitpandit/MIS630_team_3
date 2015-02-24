@@ -41,6 +41,6 @@ We are committed in providing finest recipes for cooking appetizing cuisines. No
 •	The members can rate out of five stars and also gets to comment on the recipe.<br>
  
 <h3> Upload Recipe </h3>
-•	This page  allows the user to upload his/her own recipe on the site. There is a fixed structure for uploading a 		recipe. 
-•	Firstly, the user enters the recipe's name in the text box, next is the list of ingridients, the method to cook to 		the recipe, which cuisine it belongs to, how long it takes to cook the dish and which restaurant's its available 		in.
-• 	The user also has to upload the finished image of the finished recipe, how long it takes to cook the dish and which 		cuisine it belongs to.
+•	This page  allows the user to upload his/her own recipe on the site. There is a fixed structure for uploading a 		recipe.<br>
+•	Firstly, the user enters the recipe's name in the text box, next is the list of ingridients, the method to cook to 		the recipe, which cuisine it belongs to, how long it takes to cook the dish and which restaurant's its available 		in.<br>
+• 	The user also has to upload the finished image of the finished recipe, how long it takes to cook the dish and which 		cuisine it belongs to.<br>
