@@ -1,4 +1,5 @@
-<h1>Dine ‘n’ Wine</h1> ![logo]
+<h1>Dine ‘n’ Wine</h1> 
+![logo]
 [logo]:https://github.com/ajitpandit/MIS630_team_3/commit/3fb8a47505dbc0a581f34e668452ac943da3cef7
 
 <h2>Mission Statement</h2>
