@@ -1,6 +1,6 @@
 <h1>Dine ‘n’ Wine</h1> 
 ![logo]
-[logo]:https://github.com/ajitpandit/MIS630_team_3/blob/master/logo.jpg
+[logo]:https://github.com/ajitpandit/MIS630_team_3/blob/master/dine%20n%20wine%20logo%20(1).jpg
 
 
 <h2>Mission Statement</h2>
