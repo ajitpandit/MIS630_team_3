@@ -1,7 +1,6 @@
 
 ![logo]
-[logo]:https://github.com/ajitpandit/MIS630_team_3/blob/master/class%20diagram.jpg
-https://github.com/ajitpandit/MIS630_team_3/blob/master/dine%20n%20wine%20logo%20(1).jpg
+[logo]:https://github.com/ajitpandit/MIS630_team_3/blob/master/dine%20n%20wine%20logo%20(1).jpg
 
 <h2>Mission Statement</h2>
 <p>
@@ -12,9 +11,8 @@ We are committed in providing finest recipes for cooking appetizing cuisines. No
 	<p>	The website teaches how to cook to a foodie or a culinarian. How to learn cooking or share your knowledge. The website stipulates a platform to share and celebrate culinary knowledge. A visitor can sign up/login, explore and share various cuisine recipes. Each of the recipe can be understood in five different languages, being commented on and rated by the registered users. A variety of recipes are sorted according to time it takes, different cultures and time of dine. Sharing is not restricted to our website, we offer users to share their knowledge on social networking sites such as Facebook, Pinterest, Twitter and Google Plus. People from different cultural backgrounds can learn recipes from different cultures in the language they are comfortable with.</p>
 	
 <h3>Database Relationship View Diagram(Class Diagram)</h3>
-![class]
-[class]:
-	
+![log]
+[log]:https://github.com/ajitpandit/MIS630_team_3/blob/master/class%20diagram.jpg	
 <h2>Mockup web pages </h2>
 	
 <h3>Log In Page</h3>
