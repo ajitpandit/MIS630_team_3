@@ -4,12 +4,13 @@
 
 <h2>Mission Statement</h2>
 <p>
-The goal of the Dine 'n' Wine website is to help user learn and share recipes of different cuisines, give a precise learning ambience and get user efficient culinary skills.  
+The goal of the Dine 'n' Wine website is to help user learn and share recipes of different cuisines, give a precise learning ambience and get user efficient culinary skills.  <br>
+<br>
 
-Sign Up.
-Learn Recipes.
-Go to the Restaurants to taste it or mail the chef for the nuances of the dish. 
-Share your own recipe.
+1. Sign Up.<br>
+2. Learn Recipes.<br>
+3. Go to the Restaurants to taste it or mail the chef for the nuances of the dish. <br>
+4. Share your own recipe.<br>
 </p>
 
 <h2>Project Scope</h2><br>
