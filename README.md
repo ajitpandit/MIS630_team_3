@@ -13,8 +13,8 @@ We are committed in providing finest recipes for cooking appetizing cuisines. No
 	
 <h3>Database Relationship View Diagram(Class Diagram)</h3>
 
-![class]
-[class]:https://github.com/ajitpandit/MIS630_team_3/blob/master/class%20diagram.jpg
+![class diagram]
+[class diagram]:https://github.com/ajitpandit/MIS630_team_3/blob/master/class%20diagram.jpg
 	
 <h2>Mockup web pages </h2>
 	
