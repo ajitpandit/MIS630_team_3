@@ -1,7 +1,7 @@
 
 ![logo]
-[logo]:https://github.com/ajitpandit/MIS630_team_3/blob/master/dine%20n%20wine%20logo%20(1).jpg
-
+[logo]:https://github.com/ajitpandit/MIS630_team_3/blob/master/class%20diagram.jpg
+https://github.com/ajitpandit/MIS630_team_3/blob/master/dine%20n%20wine%20logo%20(1).jpg
 
 <h2>Mission Statement</h2>
 <p>
@@ -13,7 +13,7 @@ We are committed in providing finest recipes for cooking appetizing cuisines. No
 	
 <h3>Database Relationship View Diagram(Class Diagram)</h3>
 ![class]
-[class]:https://github.com/ajitpandit/MIS630_team_3/blob/master/class%20diagram.jpg
+[class]:
 	
 <h2>Mockup web pages </h2>
 	
