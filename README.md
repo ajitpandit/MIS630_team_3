@@ -25,7 +25,7 @@ The goal of the Dine 'n' Wine website is to help user learn and share recipes of
 [FlowD]:https://github.com/ajitpandit/MIS630_team_3/blob/master/Flow%20Chart.jpg
 <h2>Mockup web pages</h2>
 	
-<h3>Log In Page</h3>
+<h3>Log In Page</h3><h2></h2>
 ![login]
 [login]:https://github.com/ajitpandit/MIS630_team_3/blob/master/Login.jpg 
 •	The log in page gives a brief idea about the website with help of its beautiful food images and the tag line.<br>
