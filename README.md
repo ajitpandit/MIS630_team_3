@@ -22,7 +22,7 @@ The goal of the Dine 'n' Wine website is to help user learn and share recipes of
 	<h2>Flow Chart Diagram</h2>
 ![FlowD]
 [FlowD]:https://github.com/ajitpandit/MIS630_team_3/blob/master/Flow%20Chart.jpg
-<h2>Mockup web pages </h2>
+<h2>Mockup web pages</h2>
 	
 <h3>Log In Page</h3>
 ![login]
