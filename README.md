@@ -19,6 +19,9 @@ The goal of the Dine 'n' Wine website is to help user learn and share recipes of
 	<h2>Database Relationship View Diagram(Class Diagram)</h2>
 ![Class]
 [Class]:https://github.com/ajitpandit/MIS630_team_3/blob/master/class%20diagram.jpg
+	<h2>Flow Chart Diagram</h2>
+![Flow]
+[Flow]:https://github.com/ajitpandit/MIS630_team_3/blob/master/Flow%20Chart.jpg
 <h2>Mockup web pages </h2>
 	
 <h3>Log In Page</h3>
