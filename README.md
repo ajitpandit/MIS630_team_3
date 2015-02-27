@@ -60,3 +60,12 @@ The goal of the Dine 'n' Wine website is to help user learn and share recipes of
 •	This page  allows the user to upload his/her own recipe on the site. There is a fixed structure for uploading a 		recipe.<br>
 •	Firstly, the user enters the recipe's name in the text box, next is the list of ingridients, the method to cook to 		the recipe, which cuisine it belongs to, how long it takes to cook the dish and which restaurant's its available 		in.<br>
 • 	The user also has to upload the finished image of the finished recipe, how long it takes to cook the dish and which 		cuisine it belongs to.
+
+<h3>Developers Information :</h3>
+
+
+Developer Informations:
+
+Pujan
+
+$ git commit -m "[descriptive message]"
