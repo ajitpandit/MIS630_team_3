@@ -65,7 +65,3 @@ The goal of the Dine 'n' Wine website is to help user learn and share recipes of
 
 
 Developer Informations:
-
-Pujan
-
-$ git commit -m "[descriptive message]"
