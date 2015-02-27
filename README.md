@@ -69,5 +69,5 @@ The goal of the Dine 'n' Wine website is to help user learn and share recipes of
 	Team 3 
 •	Pujan Motiwala    Pmotiwal@stevens.edu <br>
 •	Ajit M. Pandit    (write your stevens mail ID) <br>
-•	Vaibhav Bhayani    (write your stevens mail ID)<br>
+•	Vaibhav Bhayani    vbhayani@stevens.edu<br>
 •	Saurabh Nigam    (write your stevens mail ID)
