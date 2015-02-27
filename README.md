@@ -62,7 +62,7 @@ The goal of the Dine 'n' Wine website is to help user learn and share recipes of
 • 	The user also has to upload the finished image of the finished recipe, how long it takes to cook the dish and which 		cuisine it belongs to.
 
 <h3>Developers Information :</h3>
-	Team 3 <br>
+	Team 3 
 •	Pujan Motiwala <br>
 •	Ajit M. Pandit <br>
 •	Vaibhav Bhayani <br>
